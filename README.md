@@ -23,11 +23,16 @@ npm start
 ## Picture of LamaSocial
 
 
-![Screenshot 2025-04-29 223357](https://github.com/user-attachments/assets/1c984ecd-b3bc-4348-8f65-d97b604d430b)
-![Screenshot 2025-04-29 223419](https://github.com/user-attachments/assets/ac6b71e1-3a2b-4e15-96c3-08a1dcd79c3b)
-![Screenshot 2025-04-29 223441](https://github.com/user-attachments/assets/1f23c271-a8ba-4316-b747-9a25e228f35f)
-![Screenshot 2025-04-29 223512](https://github.com/user-attachments/assets/f9b2be74-fd14-475c-a8fa-c508c29a28d8)
-![Screenshot 2025-04-29 223532](https://github.com/user-attachments/assets/f8ade2be-4aea-421e-9960-54a1304e51f8)
-![Screenshot 2025-04-29 223553](https://github.com/user-attachments/assets/ac5c0624-f397-4409-b2d2-be83a6be915e)
+![Image](https://github.com/user-attachments/assets/e901e9a6-4e9b-4cc3-b77c-47d740b358a3)
+
+![Image](https://github.com/user-attachments/assets/cf0cda1c-85c6-4d20-9e09-93283cddb284)
+
+![Image](https://github.com/user-attachments/assets/36ae3d21-c8df-4f22-99ff-f83170762ebc)
+
+![Image](https://github.com/user-attachments/assets/891ce55e-1bfc-44bc-ab0d-20bcac2324f9)
+
+![Image](https://github.com/user-attachments/assets/f815a10e-c9cc-4222-a16d-99463b424d7a)
+
+![Image](https://github.com/user-attachments/assets/412f0b97-2514-4d8e-afa4-8bd46d4131cd)
 
 
