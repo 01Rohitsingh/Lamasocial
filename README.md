@@ -20,6 +20,10 @@ cd lamasocial
 npm install
 npm start
 
+## Link
+
+     https://dulcet-figolla-3a1528.netlify.app/
+
 ##  Picture of LamaSocial
 
 ### Login page
