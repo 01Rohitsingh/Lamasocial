@@ -14,27 +14,26 @@ A modern, responsive frontend social media UI built with React.js and React Rout
 - React Router DOM
 - Tailwind
 
-##  Picture of LamaSocial
-
-![Image](https://github.com/user-attachments/assets/e901e9a6-4e9b-4cc3-b77c-47d740b358a3)
-
-![Image](https://github.com/user-attachments/assets/cf0cda1c-85c6-4d20-9e09-93283cddb284)
-
-![Image](https://github.com/user-attachments/assets/36ae3d21-c8df-4f22-99ff-f83170762ebc)
-
-![Image](https://github.com/user-attachments/assets/891ce55e-1bfc-44bc-ab0d-20bcac2324f9)
-
-![Image](https://github.com/user-attachments/assets/f815a10e-c9cc-4222-a16d-99463b424d7a)
-
-![Image](https://github.com/user-attachments/assets/412f0b97-2514-4d8e-afa4-8bd46d4131cd)
-
-
 ## Getting Started
-```bash
 git clone https://github.com/01Rohitsingh/Lamasocial.git
 cd lamasocial
 npm install
 npm start
+
+##  Picture of LamaSocial
+
+# Login page
+![Image](https://github.com/user-attachments/assets/e901e9a6-4e9b-4cc3-b77c-47d740b358a3)
+# Register page
+![Image](https://github.com/user-attachments/assets/cf0cda1c-85c6-4d20-9e09-93283cddb284)
+# Home page
+![Image](https://github.com/user-attachments/assets/36ae3d21-c8df-4f22-99ff-f83170762ebc)
+
+![Image](https://github.com/user-attachments/assets/891ce55e-1bfc-44bc-ab0d-20bcac2324f9)
+ # Profile page
+![Image](https://github.com/user-attachments/assets/f815a10e-c9cc-4222-a16d-99463b424d7a)
+
+![Image](https://github.com/user-attachments/assets/412f0b97-2514-4d8e-afa4-8bd46d4131cd)
 
 
 
