@@ -1,4 +1,5 @@
-![Screenshot 2025-04-29 223357](https://github.com/user-attachments/assets/fb648d83-2cd0-4979-bee0-314b3c3da257)# Lamasocial – React Social Media App
+## React Social Media App
+![Screenshot 2025-04-29 223357](https://github.com/user-attachments/assets/fb648d83-2cd0-4979-bee0-314b3c3da257)# Lamasocial 
 
 A modern, responsive frontend social media UI built with React.js and React Router. This app includes login, register, profile, and homepage views designed to mimic real-world social platforms.
 
@@ -11,17 +12,9 @@ A modern, responsive frontend social media UI built with React.js and React Rout
 ## Tech Stack
 - React.js
 - React Router DOM
-- CSS3
+- Tailwind
 
-## Getting Started
-```bash
-git clone https://github.com/01Rohitsingh/Lamasocial.git
-cd lamasocial
-npm install
-npm start
-
-## Picture of LamaSocial
-
+##  Picture of LamaSocial
 
 ![Image](https://github.com/user-attachments/assets/e901e9a6-4e9b-4cc3-b77c-47d740b358a3)
 
@@ -34,5 +27,20 @@ npm start
 ![Image](https://github.com/user-attachments/assets/f815a10e-c9cc-4222-a16d-99463b424d7a)
 
 ![Image](https://github.com/user-attachments/assets/412f0b97-2514-4d8e-afa4-8bd46d4131cd)
+
+
+## Getting Started
+```bash
+git clone https://github.com/01Rohitsingh/Lamasocial.git
+cd lamasocial
+npm install
+npm start
+
+
+
+ 
+
+
+
 
 
