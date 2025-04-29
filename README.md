@@ -15,7 +15,7 @@ A modern, responsive frontend social media UI built with React.js and React Rout
 
 ## Getting Started
 ```bash
-git clone https://github.com/yourusername/lamasocial.git
+git clone https://github.com/01Rohitsingh/Lamasocial.git
 cd lamasocial
 npm install
 npm start
